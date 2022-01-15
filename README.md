@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nagesh Patil</h1>
 <h3 align="center">A passionate Full developer from India</h3>
-<div align="center">
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love cooking and watching sports
-</div>
+<ul align="center">
+<li>- 🌱 I’m currently learning React Js</li>
+<li>- 👯 I’m looking to collaborate with other content creators</li>
+<li>- 🥅 2022 Goals: Contribute more to Open Source projects</li>
+<li>- ⚡ Fun fact: I love cooking and watching sports</li>
+</ul>
 <hr>
 <h3 align="left">Connect with me:</h3>
     <p align="left">
