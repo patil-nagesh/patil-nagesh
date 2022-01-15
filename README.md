@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nagesh Patil</h1>
 <h3 align="center">A passionate Full developer from India</h3>
-<ul align="center">
+<ul align="center" style="list-style: none;">
 <li>- 🌱 I’m currently learning React Js</li>
 <li>- 👯 I’m looking to collaborate with other content creators</li>
 <li>- 🥅 2022 Goals: Contribute more to Open Source projects</li>
@@ -32,7 +32,7 @@
  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
-
+<hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patil-nagesh&show_icons=true&locale=en" alt="patil-nagesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patil-nagesh&" alt="patil-nagesh" /></p>
