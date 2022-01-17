@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagesh Patil</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <div align="center" >
 <p>- 🌱 I’m currently learning React Js</p>
 <p>- 👯 I’m looking to collaborate with other content creators</p>
