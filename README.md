@@ -3,7 +3,7 @@
 <div align="center" >
 <p>- 🌱 I’m currently learning React Js</p>
 <p>- 👯 I’m looking to collaborate with other content creators</p>
-<p>- 🥅 2022 Goals: Contribute more to Open Source projects</p>
+<p>- 🥅 2024 Goals: Contribute more to Open Source projects</p>
 <p>- ⚡ Fun fact: I love cooking and watching sports</p>
 </div>
 <hr>
